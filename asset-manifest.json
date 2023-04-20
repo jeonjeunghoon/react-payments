@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-payments/static/js/main.5e20c523.js",
+    "index.html": "/react-payments/index.html",
+    "main.5e20c523.js.map": "/react-payments/static/js/main.5e20c523.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5e20c523.js"
+  ]
+}
